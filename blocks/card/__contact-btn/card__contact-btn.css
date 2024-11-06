@@ -1,0 +1,20 @@
+.card__contact-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 9px;
+    color: rgba(55, 65, 81, 1);
+    background: rgba(255, 255, 255, 1);
+    border: none;
+    border-radius: 6px;
+    width: 115px;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 500;
+    transition: all .4s ease;
+    cursor: pointer;
+}
+
+.card__contact-btn:hover{
+    background: rgba(255, 255, 255, .8);
+}

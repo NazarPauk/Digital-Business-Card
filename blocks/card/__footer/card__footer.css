@@ -1,0 +1,6 @@
+.card__footer{
+    background: rgba(22, 22, 25, 1);
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}

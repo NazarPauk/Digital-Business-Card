@@ -1,0 +1,8 @@
+.card__contact-btn_color_blue{
+    background: rgba(80, 147, 226, 1);
+    color: rgb(255, 255, 255);
+}
+
+.card__contact-btn_color_blue:hover{
+    background: rgba(80, 147, 226, .8);
+}

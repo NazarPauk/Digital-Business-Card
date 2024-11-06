@@ -1,0 +1,6 @@
+.card__wrapper{
+    padding: 21px 35px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

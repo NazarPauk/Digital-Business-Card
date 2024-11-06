@@ -1,0 +1,26 @@
+/* Vendor */
+@import url(./vendor/normalize.css);
+
+/* Card */
+@import url(./blocks/card/card.css);
+@import url(./blocks/card/__header/card__header.css);
+@import url(./blocks/card/__contact-btn/card__contact-btn.css);
+@import url(./blocks/card/__contact-btn/_color_blue/card__contact-btn_color_blue.css);
+@import url(./blocks/card/__contacts/card__contacts.css);
+@import url(./blocks/card/__link/card__link.css);
+@import url(./blocks/card/__contact-icon/card__contact-icon.css);
+@import url(./blocks/card/__photo/card__photo.css);
+@import url(./blocks/card/__photo-wrapper/photo-wrapper.css);
+@import url(./blocks/card/__position/card__position.css);
+@import url(./blocks/card/__social-icon/card__social-icon.css);
+@import url(./blocks/card/__socials/card__socials.css);
+@import url(./blocks/card/__username/card__username.css);
+@import url(./blocks/card/__wrapper/card_wrapper.css);
+
+@import url(./blocks/card/__main/card__main.css);
+@import url(./blocks/card/__title/card__title.css);
+@import url(./blocks/card/__paragraph/card__paragraph.css);
+
+@import url(./blocks/card/__footer/card__footer.css);
+@import url(./blocks/card/__social-icon/card__social-icon.css);
+@import url(./blocks/card/__socials/card__socials.css);

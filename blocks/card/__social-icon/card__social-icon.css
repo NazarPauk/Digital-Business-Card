@@ -1,0 +1,12 @@
+.card__social-icon{
+    width: 26px;
+    height:26px;
+    fill:currentColor;
+    color: rgb(145, 142, 155);
+    transition: all .4s ease;
+    cursor: pointer;
+}
+
+.card__social-icon:hover{
+    color:white;
+}

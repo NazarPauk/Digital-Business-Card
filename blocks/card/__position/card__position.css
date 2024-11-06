@@ -1,0 +1,9 @@
+.card__position{
+    font-family: "Inter", serif;
+    color: rgb(243, 191, 153, 1);
+    font-size:13px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: center;
+    margin-bottom: 9px;
+}

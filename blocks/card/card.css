@@ -1,0 +1,7 @@
+.card{
+    max-width: 317px;
+    background: rgba(26, 27, 33, 1);
+    border-radius: 10px;
+    overflow: hidden;
+    color:rgb(255, 255, 255);
+}
