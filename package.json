@@ -2,7 +2,7 @@
   "name": "digital-business-card",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://nazarpauk.github.io/Digital-Business-Card",
+  "homepage": "https://nazarpauk.github.io/digital-business-card",
   "type": "module",
   "scripts": {
     "start": "vite",
