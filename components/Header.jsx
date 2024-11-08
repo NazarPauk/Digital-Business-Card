@@ -4,7 +4,7 @@ export default function Header(){
     return(
         <header className="card__header" >
             <div className="card__photo-wrapper">
-                <img className="card__photo" src="/images/card-user-photo.png" alt=""/>
+                <img className="card__photo" src="/card-user-photo.png" alt=""/>
             </div>
             <div className="card__wrapper">
                 <h2 className="card__username">Laura Smith</h2>
